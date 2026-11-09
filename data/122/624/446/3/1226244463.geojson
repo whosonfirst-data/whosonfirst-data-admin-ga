@@ -41,7 +41,7 @@
         "gn:id":2401657
     },
     "wof:country":"GA",
-    "wof:geomhash":"8623292e4d6005578cf33404de62164d",
+    "wof:geomhash":"09f88a3e3c439a6ad15d0b4d8a99b47b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     10.23333,
     -1.0
 ],
-  "geometry": {"coordinates":[10.23333,-1.0],"type":"Point"}
+  "geometry": {"coordinates":[10.23333,-1],"type":"Point"}
 }

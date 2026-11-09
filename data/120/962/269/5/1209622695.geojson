@@ -749,7 +749,7 @@
         "gn:id":2396600
     },
     "wof:country":"GA",
-    "wof:geomhash":"af0f382d78b0b1e9d7e237476b1aee09",
+    "wof:geomhash":"13b7cb5090b3f63a21c06e74bb006149",
     "wof:hierarchy":[
         {
             "country_id":85632407,
@@ -772,5 +772,5 @@
     10.0,
     -0.56667
 ],
-  "geometry": {"coordinates":[10.0,-0.56667],"type":"Point"}
+  "geometry": {"coordinates":[10,-0.56667],"type":"Point"}
 }

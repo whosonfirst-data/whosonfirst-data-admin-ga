@@ -223,7 +223,7 @@
     },
     "wof:country":"GA",
     "wof:created":1469052206,
-    "wof:geomhash":"918ba4974cdd5df5d19845efc10c5e61",
+    "wof:geomhash":"ffad25062f58496cf7898d63795d8258",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -251,5 +251,5 @@
     10.0,
     -2.65
 ],
-  "geometry": {"coordinates":[10.0,-2.65],"type":"Point"}
+  "geometry": {"coordinates":[10,-2.65],"type":"Point"}
 }
