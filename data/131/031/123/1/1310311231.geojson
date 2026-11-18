@@ -98,12 +98,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Kotto"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u79d1\u6258\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u79d1\u6258\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -127,7 +121,7 @@
         }
     ],
     "wof:id":1310311231,
-    "wof:lastmodified":1636496042,
+    "wof:lastmodified":1794999722,
     "wof:name":"Kotto",
     "wof:parent_id":1091909833,
     "wof:placetype":"locality",
