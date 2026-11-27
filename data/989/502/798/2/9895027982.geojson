@@ -1,0 +1,75 @@
+{
+  "id": 9895027982,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.32933,0.60732,9.32933,0.60732",
+    "geom:latitude":0.60732,
+    "geom:longitude":9.32933,
+    "gn:population":41524,
+    "iso:country":"GA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640495: name \"Akanda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640495"
+        },
+        {
+            "citation":"GeoNames populated place 12640495: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640495"
+        },
+        {
+            "citation":"GeoNames populated place 12640495: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640495"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421178363 (Komo Mondah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407,
+        85671235,
+        102191573,
+        421178363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640495
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"17427154484d6f8ba105716a1d413ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":421178363,
+            "locality_id":9895027982,
+            "region_id":85671235
+        }
+    ],
+    "wof:id":9895027982,
+    "wof:lastmodified":1795735222,
+    "wof:name":"Akanda",
+    "wof:parent_id":421178363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.32933,
+    0.60732,
+    9.32933,
+    0.60732
+],
+  "geometry": {"coordinates":[9.32933,0.60732],"type":"Point"}
+}

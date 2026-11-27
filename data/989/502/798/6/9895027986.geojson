@@ -1,0 +1,74 @@
+{
+  "id": 9895027986,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.89042,0.58224,12.89042,0.58224",
+    "geom:latitude":0.58224,
+    "geom:longitude":12.89042,
+    "iso:country":"GA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308831: name \"Idung\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308831"
+        },
+        {
+            "citation":"GeoNames populated place 13308831: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308831"
+        },
+        {
+            "citation":"GeoNames populated place 13308831: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308831"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091910169 (Ivindo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632407,
+        85671237,
+        102191573,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308831
+    },
+    "wof:country":"GA",
+    "wof:geomhash":"b2ed3331cbef75b1c3aa064a1641023e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "locality_id":9895027986,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":9895027986,
+    "wof:lastmodified":1795735222,
+    "wof:name":"Idung",
+    "wof:parent_id":1091910169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ga",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.89042,
+    0.58224,
+    12.89042,
+    0.58224
+],
+  "geometry": {"coordinates":[12.89042,0.58224],"type":"Point"}
+}
